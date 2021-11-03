@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Month_RecyclerView</string>
+    <string name="jan">January</string>
+    <string name="feb">February</string>
+    <string name="mar">March</string>
+    <string name="apr">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="aug">August</string>
+    <string name="sept">September</string>
+    <string name="oct">October</string>
+    <string name="nov"> November</string>
+    <string name="dec">December</string>
+</resources>
+
